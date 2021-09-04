@@ -3,7 +3,7 @@
 
 <p>&nbsp;</p>
 
-## Download Instruction
+## Instruction
 
 1. Clone the project.
 
